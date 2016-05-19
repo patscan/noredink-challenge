@@ -1,3 +1,12 @@
+## Usage
+
+```
+ruby quizmaker.rb
+```
+
+Original README below...
+
+
 ## Background
 
 One of our engineering challenges at NoRedInk is deciding performantly how to show students the right mix of content.  By choosing the right cross-section of content we can ensure that:
