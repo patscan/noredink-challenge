@@ -23,9 +23,6 @@ class QuestionCollector
     end
     questions_ordered_by_ease = questions.sort_by {|q| q.difficulty }.reverse
     questions_ordered_by_ease.take(num)
-    #until result_list.length == num
-    #  result_list << 
-    #end
   end
 
   def self.process_questions
